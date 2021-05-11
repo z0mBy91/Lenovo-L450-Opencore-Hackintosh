@@ -8,18 +8,11 @@ Working:
 * Sound (including DP HDMI Out, working Headphone Jack)
 * Trackpad and Trackpoint
 * Battery Status
-
+* Sleep （It's required to go to apple logo---> sleep before closing the lid）
 Working on:
 
-* Sleep
+* Sleep when closing the lid
 * Native Wifi (have to buy a Wifi Card first)
 
 
-
-## General
-I generally followed the superb [OC-Laptop-Guide](https://1revenger1.gitbook.io/laptop-guide/), modifying slightly along the Way.
-I Suggest using [ProperTree](https://github.com/corpnewt/ProperTree) to do plist modifications 
-## Steps to Get Sound working
-1. Inject Audio-Layout in config.plist
-	1. ![Inject Layout](https://github.com/z0mBy91/Lenovo-L450-Opencore-Hackintosh/blob/master/Layout-Insertion.png)
-	2.  a
+í
